@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Magasins.Modele
 {
-    internal class Jours
+    internal class Jour
     {
     }
 }
